@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Bogor Botanical Gardens",
+        "imageUrl": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/discover-6-beautiful-botanical-gardens-of-indonesia/2.jpg",
+        "price": 25000,
+        "address": "Jl. Ir. H. Juanda No.13, Bogor",
+        "description": "Bogor Botanical Gardens is a renowned botanical garden located in the city of Bogor. It is home to a vast collection of plants, trees, and flowers from various regions"
+    },
+    {
+        "name": "Puncak",
+        "imageUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2022/12/06/1462324774.jpg",
+        "price": 1000,
+        "address": "Puncak Pass, Bogor",
+        "description": "Puncak is a popular mountain pass and tourist destination near Bogor. It offers breathtaking views of tea plantations, rolling hills, and beautiful landscapes."
+    },
+    {
+        "name": "Taman Safari Indonesia",
+        "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/08/8a96b5a0-024d-4e5e-9999-508f7349aed7-1638950262082-ee0f4772e8f12f62cbd8285aed4c8314.jpg",
+        "price": 150000,
+        "address": "Jl. Raya Puncak No.601, Bogor",
+        "description": "Taman Safari Indonesia is a wildlife conservation and safari park located in Bogor. It provides a unique opportunity to observe and interact with a wide variety of animal species in their natural habitats."
+    },
+    {
+        "name": "Bogor Palace",
+        "imageUrl": "https://bscenglish33.files.wordpress.com/2016/03/tampak-depan.jpg",
+        "price": 10000,
+        "address": "Jl. Ir. H. Juanda No.1, Bogor",
+        "description": "Bogor Palace, also known as the Bogor Presidential Palace, is an iconic landmark in Bogor."
+    },
+    {
+        "name": "The Jungle Waterpark",
+        "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_2896,h_1944,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/vijuqpmzdwthfdykyuhl/JungleWaterparkTicketinBogor-Klook.jpg",
+        "price": 100000,
+        "address": "Jl. Pemda Raya, Bogor",
+        "description": "The Jungle Waterpark is a popular water theme park in Bogor. It offers a wide range of water attractions, slides, pools, and fun-filled."
+    },
+    {
+        "name": "Tangkuban Perahu",
+        "imageUrl": "https://asset.kompas.com/crops/ilcgxQBDmeUuoES_SK8mjjhAEvU=/0x0:1000x667/750x500/data/photo/2022/06/27/62b946699ed13.jpg",
+        "price": 200000,
+        "address": "Jl. Raya Tangkuban Perahu, Lembang, Bandung",
+        "description": "Tangkuban Perahu is a famous volcanic crater located in Lembang, Bandung. It offers a unique opportunity to witness"
+      },
+      {
+        "name": "Dusun Bambu",
+        "imageUrl": "https://www.wisataidn.com/wp-content/uploads/2020/07/Dusun-Bambu-Lembang-750x450.jpg",
+        "price": 50000,
+        "address": "Jl. Kolonel Masturi KM. 11, Cisarua, Bandung",
+        "description": "Dusun Bambu is an eco-tourism destination surrounded by beautiful bamboo forests in Cisarua, Bandung."
+      },
+      {
+        "name": "Trans Studio Bandung",
+        "imageUrl": "https://img.bandung.go.id/images/news/2022/02/07/header/164419681126-trans-studio-bandung-destinasi-wajib-pelancong-dengan-20-wahana-seru.JPG",
+        "price": 250000,
+        "address": "Jl. Gatot Subroto No.289, Bandung",
+        "description": "Trans Studio Bandung is a large indoor theme park and entertainment complex in Bandung."
+      },
+      {
+        "name": "Saung Angklung Udjo",
+        "imageUrl": "https://www.doyanjalan.com/wp-content/uploads/2020/04/Saung-Udjo.jpg",
+        "price": 100000,
+        "address": "Jl. Padasuka No.118, Bandung",
+        "description": "Saung Angklung Udjo is a cultural center dedicated to preserving Sundanese traditional arts and culture in Bandung."
+      },
+      {
+        "name": "Farmhouse Bandung",
+        "imageUrl": "https://www.nativeindonesia.com/foto/farmhouse-lembang-bandung/farm-house-lembang-Bandung.jpg",
+        "price": 75000,
+        "address": "Jl. Raya Lembang No.108, Lembang, Bandung",
+        "description": "Farmhouse Bandung is a European-style family attraction located in Lembang, Bandung."
+      },
+      {
+        "name": "Ciater Hot Spring",
+        "imageUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_630,h_380/https://tempatwisatadibandung.info/wp-content/uploads/2020/03/pemandian-air-panas-ciater-saat-malam-hari_resized-630x380-1-630x380.jpg",
+        "price": 50000,
+        "address": "Jl. Raya Ciater, Subang",
+        "description": "Ciater Hot Spring is a natural hot spring resort located in Subang. It offers soothing hot mineral water pools surrounded by scenic views of the surrounding mountains and lush greenery."
+      },
+      {
+        "name": "Curug Cimarinjung",
+        "imageUrl": "https://o-cdn-cas.sirclocdn.com/parenting/images/curug-cimarinjung.width-800.format-webp.webp",
+        "price": 1000,
+        "address": "Desa Bojongkunci, Subang",
+        "description": "Curug Cimarinjung is a stunning waterfall hidden in the natural beauty of Subang."
+      },
+      {
+        "name": "Pantai Santolo",
+        "imageUrl": "https://piknikwisata.com/wp-content/uploads/2020/02/info-wisata-pantai-santolo-garut-jabar.jpg",
+        "price": 10000,
+        "address": "Desa Santolo, Subang",
+        "description": "Pantai Santolo is a beautiful beach destination in Subang, offering pristine white sands and clear turquoise waters."
+      },
+      {
+        "name": "Gunung Tangkuban Parahu",
+        "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/02/04/f12b8d46-03f2-42ad-a620-5e7ad748aec8-1612403518383-adf8c9df733bf89681751d3427f993d7.jpg",
+        "price": 100000,
+        "address": "Kecamatan Cisalak, Subang",
+        "description": "Gunung Tangkuban Parahu is an active stratovolcano located in Subang. It is a popular destination for hiking and nature enthusiasts."
+      },
+      {
+        "name": "Kampung Cai Ranca Upas",
+        "imageUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/01/126854898_124414929445155_7074499299616960637_n-2749185989.jpg",
+        "price": 25000,
+        "address": "Jl. Raya Cai Ranca Upas, Subang",
+        "description": "Kampung Cai Ranca Upas is a traditional village located in Subang, showcasing the local Sundanese culture and rural life. Visitors can experience traditional activities."
+      }
+]
